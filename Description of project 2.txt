@@ -1,0 +1,9 @@
+Discuss the production and decay of the Higgs Boson in proton-proton collisions at the LHC. Write the main production Feynman diagrams. In particular, study the decay H --> ZZ* --> l+l- l´+l´- , where one Z boson in on-shell and the other one off-shell. Feynman diagrams.
+
+Make use of the ATLAS open data to study the 4-leptons final states. Use various cuts on some kinematical variables to arrive to clean 4-lepton events. Plot some of the variables you feel are important, such as the di-lepton invariant mass for each of the lepton pairs. Compare the data to the various SM backgrounds.
+
+Which standard model processes would contribute to the 4-lepton final states. Write the corresponding Feynman diagrams.
+
+ Search for the Higgs Boson in the 4-lepton invariant mass. Discuss the results. Plot the 4-lepton invariant mass for various final states: e+e-e+e-, e+e-mu+mu-, mu+mu-mu+mu-.
+
+Read the ATLAS publication The Higgs Boson -Science paper 2012.pdf  and compare your results to those obtained in the paper.
